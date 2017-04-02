@@ -1,6 +1,6 @@
 # ARI-CSV
 
-Zeigt die .csv-Dateien, die das ARI ausgibt (aber auch jede andere .csv-datei) an. Die Ausgabe ist sortierbar nach jeder Spalte und 
+Zeigt die .csv-Dateien, die das ARI ausgibt (aber auch jede andere .csv-Datei) an. Die Ausgabe ist sortierbar nach jeder Spalte und kann durchsucht/gefiltert werden
 
 Ein laufendes Beispiel ist unter http://ari.datenschleuder.de zu finden.
 
